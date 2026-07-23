@@ -170,7 +170,7 @@ The model was evaluated on historical stock data and demonstrated strong predict
 
 ### System Architecture
 
-![Architecture](Images/System_Architecture.png)
+![Architecture]"C:\Users\Deeya\Downloads\Stock-Market-Trend-Prediction-and-Investment-Recommendation-main\Stock-Market-Trend-Prediction-and-Investment-Recommendation-main\Images\System_Architecture.png"
 
 ### Loss Curve
 
