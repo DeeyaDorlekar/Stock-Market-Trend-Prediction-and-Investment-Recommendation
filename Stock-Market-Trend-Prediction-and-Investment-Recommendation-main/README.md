@@ -191,7 +191,7 @@ The model was evaluated on historical stock data and demonstrated strong predict
 Clone the repository
 
 ```bash
-git clone https://github.com/Sania259/Stock-Market-Trend-Prediction-and-Investment-Recommendation.git
+git clone https://github.com/DeeyaDorlekar/Stock-Market-Trend-Prediction-and-Investment-Recommendation.git
 ```
 
 Install dependencies
@@ -222,26 +222,16 @@ pip install -r requirements.txt
 
 ---
 
-## 🏆 Research Recognition
-
-This project formed the basis of our research paper:
-
-**"Stock Trend Prediction and Recommendation Using LSTM and GRU with Explainable AI."**
-
-🏅 **Best Paper Award – ICETEST 2026**
-
----
-
 ## 👩‍💻 Author
 
-**Sania Narendra Ayare**
+**Deeya Vishvanath Dorlekar**
 
 Bachelor of Engineering (Information Technology)
 
 Passionate about Machine Learning, Deep Learning, Data Science, and AI-driven Financial Analytics.
 
-- GitHub: https://github.com/Sania259
-- LinkedIn: linkedin.com/in/sania-ayare-885764319
+- GitHub: https://github.com/DeeyaDorlekar
+- LinkedIn: linkedin.com/in/deeya-dorlekar-287b8828b/
 
 ---
 
